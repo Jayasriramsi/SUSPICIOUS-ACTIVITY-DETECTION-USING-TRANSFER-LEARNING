@@ -1,4 +1,5 @@
 **🚨 SUSPICIOUS-ACTIVITY-DETECTION-USING-TRANSFER-LEARNING**
+
 A real-time unusual activity recognition system using Deep Learning and OpenCV. The model detects and classifies activities like walking, running, crawling, and shoplifting. It generates instant alerts with confidence scores, enabling smart surveillance, crime prevention, and enhanced security in both public and private spaces.
 
 **🔹 Features**
