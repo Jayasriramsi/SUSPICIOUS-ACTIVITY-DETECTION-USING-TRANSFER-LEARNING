@@ -8,16 +8,17 @@ A real-time unusual activity recognition system using Deep Learning and OpenCV. 
 * 🔍 Multiple activity recognition in a single video
 * ⚡ Fast and efficient processing using OpenCV and transfer learning
 
-
+** SELECTION OF FILES**
 <img width="850" height="495" alt="image" src="https://github.com/user-attachments/assets/c267adca-3d12-4833-b2b0-a7dd2d62c892" />
-## SELECTION OF FILES
 
+** CONNECT OPERATING CMD  VIDEO CLASSIFICATIOON**
 <img width="873" height="512" alt="image" src="https://github.com/user-attachments/assets/c1242f7f-babb-4674-a974-5cf2a4fc1cfb" />
-## CONNECT OPERATING CMD  VIDEO CLASSIFICATIOON
-<img width="842" height="577" alt="image" src="https://github.com/user-attachments/assets/f356f1d2-7750-401e-8736-add6704b1a67" />
-## FRAME PROCESSING OF ALERT FLAMES OF VIDEO CLASSIFICATION (NORMAL)
 
+ **FRAME PROCESSING OF ALERT FLAMES OF VIDEO CLASSIFICATION (NORMAL)**
+<img width="842" height="577" alt="image" src="https://github.com/user-attachments/assets/f356f1d2-7750-401e-8736-add6704b1a67" />
+
+**FRAME PROCESSING OF ALERT FLAMES OF VIDEO CLASSIFICATION (SHOPLIFTING)**
 <img width="818" height="483" alt="image" src="https://github.com/user-attachments/assets/2b5e1db7-09b2-477d-bea3-18c4c2db90ff" />
-## FRAME PROCESSING OF ALERT FLAMES OF VIDEO CLASSIFICATION (SHOPLIFTING)
+ 
 
 
